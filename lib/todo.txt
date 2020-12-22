@@ -1,0 +1,16 @@
+
+TO DO
+    - on all actions, put keyboard down
+    - search function - toggle show/hide searchbar
+    - double tap back button to exit app
+    - force portrait only
+    - ensure widgets initialized
+    - item page: show full info
+    - navigation drawer icons
+    - filter 
+        - craft / drop
+        - checkbox by item subTypes
+    - sort by
+        - stat - example by int: highest to lowest
+        - no lowest to highest... why would you want to see the least stat? it would just give you a bunch of random zero-stat items
+        
