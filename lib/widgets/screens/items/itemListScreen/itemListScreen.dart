@@ -28,7 +28,6 @@ class ItemListScreenState extends State<ItemListScreen> {
     itemTypeFilter =  widget.itemTypeFilter;
     itemDataList = widget.itemDataList;
     itemFilterProvider = Provider.of<ItemFilterProvider>(context);
-    // itemFilterProvider.setItemTypeFilterWithoutNotifier(itemTypeFilter);
     super.didChangeDependencies();
   }
 
